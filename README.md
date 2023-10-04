@@ -24,17 +24,18 @@ For company managers, there is a dedicated page with comprehensive information a
 Guests who register with the application can access information and comments pertaining to all companies that are registered within the application.
 
 ### Screenshots
- <img src="/src/assets/images/employee_dashboard.png" alt="Icon" width="400">
+ <img src="https://github.com/siinemvarol/hr-management-front-end/blob/master/src/assets/images/employee_dashboard.png?raw=true" alt="Icon" width="400">
 
 - After registering in the system, you will receive an email.
 ##### Confirm Account
-  <img src="/src/assets/images/confirm_account.png" alt="Icon" width="200" height="300">
+  <img src=" https://github.com/siinemvarol/hr-management-front-end/blob/master/src/assets/images/confirm_account.png?raw=true" alt="Icon" width="200" height="300">
+
 
 ##### Verification Successful
-   <img src="/src/assets/images/verification_successful.png" alt="Icon" width="200" height="300">
+   <img src="https://github.com/siinemvarol/hr-management-front-end/blob/master/src/assets/images/verification_successful.png?raw=true" alt="Icon" width="200" height="300">
 
 ##### Verification Failed
-   <img src="/src/assets/images/verification_failed.png" alt="Icon" width="200" height="300">
+   <img src="https://github.com/siinemvarol/hr-management-front-end/blob/master/src/assets/images/verification_failed.png?raw=true" alt="Icon" width="200" height="300">
 
 ### Technologies
 
