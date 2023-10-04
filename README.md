@@ -28,7 +28,7 @@ Guests who register with the application can access information and comments per
 
 - After registering in the system, you will receive an email.
 ##### Confirm Account
-  <img src=" https://github.com/siinemvarol/hr-management-front-end/blob/master/src/assets/images/confirm_account.png?raw=true" alt="Icon" width="200" height="300">
+  <img src="https://github.com/siinemvarol/hr-management-front-end/blob/master/src/assets/images/confirm_account.png?raw=true" alt="Icon" width="200" height="300">
 
 
 ##### Verification Successful
