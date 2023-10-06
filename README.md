@@ -177,7 +177,7 @@ spec:
     spec:
       containers: 
       - name: react 
-        image: siinemvarol/react:v01
+        image: ?(UserName)/react:v01
         resources:
           requests:
             cpu: "100m"
